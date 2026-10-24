@@ -26,7 +26,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Point-Cloud-denoiser**](https://github.com/ramyak-sharma/Point-Cloud-denoiser) | My capstone project: denoising LiDAR scans in simulated rain and fog with six methods. Includes RangeRestoreNet, a range-image network I designed that runs at 22 Hz. The DGCNN closes 98% of the recoverable error, and the results show that Chamfer distance fails to predict 3D detection quality. | Python · PyTorch |
+| [**Point-Cloud-denoiser**](https://github.com/ramyak-sharma/Point-Cloud-denoiser) | My capstone project: denoising LiDAR scans in simulated rain and fog with six methods. Includes RangeRestoreNet, a range-image network our team designed that runs at 22 Hz. The DGCNN closes 98% of the recoverable error, and the results show that Chamfer distance fails to predict 3D detection quality. | Python · PyTorch |
 | [**RayTracer**](https://github.com/ramyak-sharma/RayTracer) | A CPU path tracer with a camera model, sphere intersection, and Lambertian and metal materials. | C++ |
 | [**CPUSimulator**](https://github.com/ramyak-sharma/CPUSimulator) | An interactive logic-circuit sandbox, built as the first step toward a CPU made from gates. | C++ · raylib |
 | [**BytePairEncoding**](https://github.com/ramyak-sharma/BypePairEncoding) | The BPE tokenizer behind GPT-style models, written from scratch, with a Graphviz tree of the merges. | C++ |
