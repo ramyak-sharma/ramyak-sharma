@@ -1,6 +1,6 @@
-<h1 align="center">Ramyak Sharma</h1>
+<h1>Ramyak Sharma</h1>
 
-<p align="center">
+<p>
   C++ developer
 </p>
 
